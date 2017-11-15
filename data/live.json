@@ -1,0 +1,1094 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "message": "ok",
+  "data": {
+    "banner": [
+      {
+        "title": "中秋，边吃月饼边拿头衔",
+        "img": "https://i0.hdslb.com/bfs/live/ecc2a04a66e47888926d14ad615db3940c13a1cb.png",
+        "remark": "中秋节",
+        "link": "https://live.bilibili.com/AppBanner/index?id=610"
+      },
+      {
+        "title": "Lolitaの搭配",
+        "img": "https://i0.hdslb.com/bfs/live/3f510f2da43544eafcba8edff7137290395a74a6.jpg",
+        "remark": "Lolitaの搭配",
+        "link": "https://live.bilibili.com/AppBanner/index?id=608"
+      },
+      {
+        "title": "小视频玩坏月饼挑战赛",
+        "img": "https://i0.hdslb.com/bfs/live/59fd8a248d8faaee3dbb8abfc2b6985aa68e2f28.jpg",
+        "remark": "小视频玩坏月饼挑战赛",
+        "link": "https://live.bilibili.com/AppBanner/index?id=607"
+      },
+      {
+        "title": "“bilibil漫游全国” 2017国庆特别篇",
+        "img": "https://i0.hdslb.com/bfs/live/4b2ccd69be436260a6c27e8bf14717b83701b7a9.jpg",
+        "remark": "10.1漫展",
+        "link": "https://live.bilibili.com/AppBanner/index?id=604"
+      },
+      {
+        "title": "“bilibil漫游全国” 2017国庆特别篇",
+        "img": "http://i0.hdslb.com/bfs/archive/07e18b46db506d9200c5461189f748c9fbbb429a.jpg",
+        "remark": "10.1漫展",
+        "link": "https://live.bilibili.com/AppBanner/index?id=604"
+      }
+    ],
+    "entranceIcons": [
+      {
+        "id": 9,
+        "name": "绘画专区",
+        "entrance_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/9_big_2x.png?20170907103800",
+          "height": "80",
+          "width": "80"
+        }
+      },
+      {
+        "id": 8,
+        "name": "萌宅推荐",
+        "entrance_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/8_big_2x.png?20170907103800",
+          "height": "80",
+          "width": "80"
+        }
+      },
+      {
+        "id": 3,
+        "name": "网络游戏",
+        "entrance_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/3_big_2x.png?20170907103800",
+          "height": "80",
+          "width": "80"
+        }
+      },
+      {
+        "id": 1,
+        "name": "单机联机",
+        "entrance_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/1_big_2x.png?20170907103800",
+          "height": "80",
+          "width": "80"
+        }
+      },
+      {
+        "id": 4,
+        "name": "电子竞技",
+        "entrance_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/4_big_2x.png?20170907103800",
+          "height": "80",
+          "width": "80"
+        }
+      }
+    ],
+    "partitions": [
+      {
+        "partition": {
+          "id": 1,
+          "name": "娱乐",
+          "sub_icon": {
+            "src": "https://s1.hdslb.com/bfs/static/blive/live-assets/mobile/ios/phone/1_2x.png?201709151052",
+            "height": "40",
+            "width": "40"
+          },
+          "count": 946
+        },
+        "lives": [
+          {
+            "roomid": 392351,
+            "uid": 8838084,
+            "title": "攻声磁性向小哥哥",
+            "uname": "老耗砸",
+            "online": 5980,
+            "user_cover": "https://i0.hdslb.com/bfs/live/c4f3ce6b58aa1ceae6c1fdace662db5ac5dc14b8.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/392351.jpg?10051710",
+            "link": "/5477",
+            "face": "https://i0.hdslb.com/bfs/face/e1a3a0ef3be0a175a95ab0b8615b708cc36fff47.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 21,
+            "area_name": "唱见",
+            "play_url": "http://xl.live-play.acgvideo.com/live-xl/685512/live_8838084_1899165.flv?wsSecret=b5b99514fe82ffa315095b7a7e03d632&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 35932,
+            "uid": 1334711,
+            "title": "我就来吹吹水看看事~",
+            "uname": "丧男PALADIN",
+            "online": 15974,
+            "user_cover": "https://i0.hdslb.com/bfs/live/8932ff6b73a095a7af0f68fc14d48bbe93ec4156.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/35932.jpg?10051717",
+            "link": "/492",
+            "face": "https://i1.hdslb.com/bfs/face/cec63dcb498d75e300015035ddb31978e429a6b4.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 26,
+            "area_name": "日常",
+            "play_url": "http://live-play.acgvideo.com/live/993/live_1334711_332_c521e483.flv?wsSecret=b587a159433666569c390b0517a428d2&wsTime=59ae7c6e",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 78787,
+            "uid": 634131,
+            "title": "终于打开电脑了！",
+            "uname": "肥皂菌丨珉珉的猫咪丨",
+            "online": 31221,
+            "user_cover": "https://i0.hdslb.com/bfs/live/10d0bbbb46a631f4ecbdee4a5bf74925a485e569.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/78787.jpg?10051712",
+            "link": "/430",
+            "face": "https://i1.hdslb.com/bfs/face/0d80b9eee8a2e573f026abd6a5883fe9dd8e39b3.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 21,
+            "area_name": "唱见",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/425126/live_634131_7882687.flv?wsSecret=d411763cd0ff8871cc6d06ddb54dba47&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 96136,
+            "uid": 8581342,
+            "title": "菌子群聚，基佬搞基大会",
+            "uname": "浅野菌子",
+            "online": 15170,
+            "user_cover": "https://i0.hdslb.com/bfs/live/39c05bd87cfda9cae7a93542bb5bf5542cbfc6d2.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/96136.jpg?10051718",
+            "link": "/161",
+            "face": "https://i1.hdslb.com/bfs/face/ad7b2a68f5aa4ec2a117ade793312122a37e04cc.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 32,
+            "area_name": "手机直播",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/646309/live_8581342_5446862.flv?wsSecret=8b5698ff8664f0975823e28673bc367a&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 981813,
+            "uid": 36279952,
+            "title": "特可爱 你点我唱歌儿",
+            "uname": "汉特ハント",
+            "online": 21225,
+            "user_cover": "https://i0.hdslb.com/bfs/live/441ed6f7c7c6d79e323fd472268ff25eccc39d22.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/981813.jpg?10051718",
+            "link": "/5499",
+            "face": "https://i1.hdslb.com/bfs/face/d48a60be8ba0b1da49ddaf56c703a104be9cb3f0.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 21,
+            "area_name": "唱见",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/129472/live_36279952_3313936.flv?wsSecret=afd4cf91b42bd40f211b13be211474c9&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 24863,
+            "uid": 11390741,
+            "title": "萌新求关注。",
+            "uname": "喵叔爱你们哟",
+            "online": 5958,
+            "user_cover": "https://i0.hdslb.com/bfs/live/e5a7566d58b8ab3f439bc5e77c2b63e78e904dbb.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/24863.jpg?10042137",
+            "link": "/496",
+            "face": "https://i1.hdslb.com/bfs/face/7681ba376a102aaf11d80320de692f92d3be42bc.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 1,
+            "parent_name": "娱乐",
+            "area_id": 21,
+            "area_name": "唱见",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/342667/live_11390741_332_c521e483.flv?wsSecret=5385fac671d2845d4aa447bc2f5a9258&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          }
+        ]
+      },
+      {
+        "partition": {
+          "id": 2,
+          "name": "游戏",
+          "sub_icon": {
+            "src": "https://s1.hdslb.com/bfs/static/blive/live-assets/mobile/ios/phone/2_2x.png?201709151052",
+            "height": "40",
+            "width": "40"
+          },
+          "count": 2777
+        },
+        "lives": [
+          {
+            "roomid": 92681,
+            "uid": 19620195,
+            "title": "【老七】远古彩虹",
+            "uname": "污妖帝老七",
+            "online": 424,
+            "user_cover": "https://i0.hdslb.com/bfs/live/c7e794f3be3278032d22a57632e6b5abffd8b95c.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/92681.jpg?10042024",
+            "link": "/474",
+            "face": "https://i1.hdslb.com/bfs/face/d976d1a3192c8f55e74cc27b1fb22a4599a0085a.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 65,
+            "area_name": "彩虹六号",
+            "play_url": "http://dl.live-play.acgvideo.com/live-dl/289269/live_19620195_6369106.flv?wsSecret=5f83f522ea5dcb4daf94c0a12604b2b1&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 74723,
+            "uid": 540217,
+            "title": "超凶萝莉四吃个鸡儿",
+            "uname": "万四屋",
+            "online": 11366,
+            "user_cover": "https://i0.hdslb.com/bfs/live/c12d18da491cefb592e859b41a82e6631f4a2954.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/74723.jpg?10051709",
+            "link": "/190",
+            "face": "https://i1.hdslb.com/bfs/face/956c096e2bb918c9765bf8923897a3da226575b7.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 80,
+            "area_name": "绝地求生：大逃杀",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/433154/live_540217_7679107.flv?wsSecret=b63703daeb4ce9892a708833439837fc&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 5441,
+            "uid": 322892,
+            "title": "解放啦",
+            "uname": "痒局长",
+            "online": 123836,
+            "user_cover": "https://i0.hdslb.com/bfs/live/9808ad913ca29088ce78d28d37c80b3883e87814.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/5441.jpg?10051728",
+            "link": "/528",
+            "face": "https://i1.hdslb.com/bfs/face/bcdf640faa16ebaacea1d4c930baabaec9087a80.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 80,
+            "area_name": "绝地求生：大逃杀",
+            "play_url": "http://xl.live-play.acgvideo.com/live-xl/670108/live_322892_3999292.flv?wsSecret=f7dd649d70342427a5bd6a5805063e2b&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 1270390,
+            "uid": 41066323,
+            "title": "声攻白叔，绝地求生之一千种死法。",
+            "uname": "电竞白展堂",
+            "online": 3070,
+            "user_cover": "https://i0.hdslb.com/bfs/live/9ebb761eb876dfc6d1fe035a74b9b80846725fc6.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/1270390.jpg?10042226",
+            "link": "/1270390",
+            "face": "https://i1.hdslb.com/bfs/face/5a61fd2389fe63842c4cc4fbe853975a00cf93c2.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 80,
+            "area_name": "绝地求生：大逃杀",
+            "play_url": "http://js.live-play.acgvideo.com/live-js/136448/live_41066323_2363352.flv?wsSecret=e72df3c603fbf8884f85920b1e401dbc&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 83264,
+            "uid": 1864366,
+            "title": "(｀･д･´）你感受过绝望吗",
+            "uname": "黑哲君丶",
+            "online": 51040,
+            "user_cover": "https://i0.hdslb.com/bfs/live/98a2f3578cc4410298e2560aa716ddd6000a68cf.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/83264.jpg?10051713",
+            "link": "/1125",
+            "face": "https://i0.hdslb.com/bfs/face/0053321a0ec1e53824b8fc0ab8297469c9ce2816.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 86,
+            "area_name": "英雄联盟",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/394811/live_1864366_1171676.flv?wsSecret=9cca50b1f7240f2b6012b66bdbd1246a&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 5096,
+            "uid": 183430,
+            "title": "【滚】绝地求生大逃杀",
+            "uname": "两仪滚",
+            "online": 96862,
+            "user_cover": "https://i0.hdslb.com/bfs/live/da03211574b2c20e11e94e142c3654ac26d7f589.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/5096.jpg?10051726",
+            "link": "/388",
+            "face": "https://i1.hdslb.com/bfs/face/1f2cc03bc48890ac183a2ef0feb0409a7e262fa8.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 2,
+            "parent_name": "游戏",
+            "area_id": 80,
+            "area_name": "绝地求生：大逃杀",
+            "play_url": "http://live-play.acgvideo.com/live/187/live_183430_5743361.flv?wsSecret=be44afc2ddd51cf0cd7d95cea8d1b03a&wsTime=59ae7c6e",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          }
+        ]
+      },
+      {
+        "partition": {
+          "id": 3,
+          "name": "手游",
+          "sub_icon": {
+            "src": "https://s1.hdslb.com/bfs/static/blive/live-assets/mobile/ios/phone/3_2x.png?201709151052",
+            "height": "40",
+            "width": "40"
+          },
+          "count": 630
+        },
+        "lives": [
+          {
+            "roomid": 3742025,
+            "uid": 93841264,
+            "title": "二狗带你看懂王者荣耀",
+            "uname": "梦醒三生梦",
+            "online": 101261,
+            "user_cover": "https://i0.hdslb.com/bfs/live/3a0a80d176cfaa621bf20c9a08b3383d505d4268.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/3742025.jpg?10051725",
+            "link": "/439",
+            "face": "https://i2.hdslb.com/bfs/face/b30b947c58c6b1011136621a3ab54c0031c920fe.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/490940/live_93841264_4272534.flv?wsSecret=6043010b4e8025bfb68e9e3363803dd6&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 1254457,
+            "uid": 10812506,
+            "title": "终于回来了",
+            "uname": "酱酱げ",
+            "online": 14198,
+            "user_cover": "https://i0.hdslb.com/bfs/live/54308b459628c336f4ef75c44813aca2a9790780.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/1254457.jpg?10051711",
+            "link": "/506",
+            "face": "https://i0.hdslb.com/bfs/face/034359b2b49f94466c761776d6b7357495a5673c.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://live-play.acgvideo.com/live/463/live_10812506_7827437.flv?wsSecret=bf4cbd32039bb446e85807b7003c8ba8&wsTime=59ae7c6e",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 3663074,
+            "uid": 91262012,
+            "title": "国服马克与国服韩信的双排之路",
+            "uname": "毕竟是无敌柚",
+            "online": 36110,
+            "user_cover": "https://i0.hdslb.com/bfs/live/a1e4f8ae6fec2ab4c2b23e6646a5ed6dafce866a.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/3663074.jpg?10051713",
+            "link": "/3663074",
+            "face": "https://i0.hdslb.com/bfs/face/177f1d3689e59dfde9a12842000c127610f31fff.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/311640/live_91262012_7169966.flv?wsSecret=ee33496eba0857a5f6cb306d517c458d&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 3919984,
+            "uid": 97375512,
+            "title": "【等你】冲国服猴子，酷。",
+            "uname": "丑陋的小教父",
+            "online": 3178,
+            "user_cover": "https://i0.hdslb.com/bfs/live/686cef50ac8ccb7f745a98ec4ab6803e06a30c42.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/3919984.jpg?10051718",
+            "link": "/3919984",
+            "face": "https://i0.hdslb.com/bfs/face/af6ea77a680bd55aa99d451492763707feddcaed.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/321660/live_97375512_8494099.flv?wsSecret=dcfdd36bc66dee06ca4eedd5fbb94180&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 3318543,
+            "uid": 11567245,
+            "title": "【声控福利】四十八岁 懒得解释了qwq",
+            "uname": "彩儿小天使",
+            "online": 5806,
+            "user_cover": "https://i0.hdslb.com/bfs/live/cdbd27cd880861b16f7b48eb20bd5ddaf4e4aca1.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/3318543.jpg?10051714",
+            "link": "/3318543",
+            "face": "https://i2.hdslb.com/bfs/face/63bd73e10e316c8762b1858054334090da8de011.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/326931/live_11567245_4477522.flv?wsSecret=57f45be9624975297b913daadeaed2ff&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 136392,
+            "uid": 1344350,
+            "title": "农药瞎玩，中秋快乐",
+            "uname": "曾经做过二班学委",
+            "online": 788,
+            "user_cover": "https://i0.hdslb.com/bfs/live/282dd08b182ddf560e2e587a5a674ca4d4ae9d59.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/136392.jpg?10051710",
+            "link": "/136392",
+            "face": "https://i0.hdslb.com/bfs/face/c4115f88e2649d84b2d6dfa52f15950d4252237d.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 3,
+            "parent_name": "手游",
+            "area_id": 35,
+            "area_name": "王者荣耀",
+            "play_url": "http://xl.live-play.acgvideo.com/live-xl/256570/live_1344350_1155118.flv?wsSecret=dd1437973b00f24c92305bfe02832d6c&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          }
+        ]
+      },
+      {
+        "partition": {
+          "id": 4,
+          "name": "绘画",
+          "sub_icon": {
+            "src": "https://s1.hdslb.com/bfs/static/blive/live-assets/mobile/ios/phone/4_2x.png?201709151052",
+            "height": "40",
+            "width": "40"
+          },
+          "count": 170
+        },
+        "lives": [
+          {
+            "roomid": 5297,
+            "uid": 284424,
+            "title": "画个水彩画~",
+            "uname": "小熊绅士",
+            "online": 27676,
+            "user_cover": "https://i0.hdslb.com/bfs/live/0e896b4be0036eec6827e8138742ca4997c86c63.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/5297.jpg?10051715",
+            "link": "/5297",
+            "face": "https://i1.hdslb.com/bfs/face/055258e010e863196e2186ac7ae7ab8dc8ccd10f.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 51,
+            "area_name": "原创绘画",
+            "play_url": "http://live-play.acgvideo.com/live/916/live_284424_1529340.flv?wsSecret=216a48a99c02b17e7bc554d6ac8f018c&wsTime=59ae7c6e",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 1462104,
+            "uid": 10979362,
+            "title": "阿松与宝可梦",
+            "uname": "鑽石闪耀",
+            "online": 1126,
+            "user_cover": "https://i0.hdslb.com/bfs/live/e345140a7443413402f51bdb9968664025fd20fb.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/1462104.jpg?10051710",
+            "link": "/1462104",
+            "face": "https://i1.hdslb.com/bfs/face/420579e2b9e6478d413bc826d328674bd41d35c0.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 94,
+            "area_name": "同人绘画",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/580277/live_10979362_4334523.flv?wsSecret=5aed2f0dac3c23c66949847afac13e7e&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 499410,
+            "uid": 919754,
+            "title": "咸鱼FM",
+            "uname": "咸鱼目害",
+            "online": 543,
+            "user_cover": "https://i0.hdslb.com/bfs/live/aa33d768f5d19a3f543f2646fd9540bf5c031bd5.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/499410.jpg?10051715",
+            "link": "/499410",
+            "face": "https://i2.hdslb.com/bfs/face/ffe9a147f71b8bcacbd76b3f6bf09cc4268bdca3.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 94,
+            "area_name": "同人绘画",
+            "play_url": "http://js.live-play.acgvideo.com/live-js/364172/live_919754_7206230.flv?wsSecret=b189ad24b3e8911bc78f3296a1a81c4d&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 109506,
+            "uid": 28642912,
+            "title": "沙画直播",
+            "uname": "沙画师半透明",
+            "online": 9164,
+            "user_cover": "https://i0.hdslb.com/bfs/live/6a39471102c2264b730d4b5a5cf2169fa4173316.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/109506.jpg?10051717",
+            "link": "/197",
+            "face": "https://i2.hdslb.com/bfs/face/39eb7a524f7789be401beb6bad41fc82ea137c01.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 96,
+            "area_name": "其他绘画",
+            "play_url": "http://live-play.acgvideo.com/live/667/live_28642912_8551809.flv?wsSecret=e0cd8bf528b1f4cbcb800192d7845584&wsTime=59ae7c6e",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 68173,
+            "uid": 7238830,
+            "title": "恋是樱草色悄咪咪画一会(´･_･`)",
+            "uname": "城与默",
+            "online": 4186,
+            "user_cover": "https://i0.hdslb.com/bfs/live/f89260a0aed8c35d938ff5c4af01389171d66bea.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/68173.jpg?10051713",
+            "link": "/68173",
+            "face": "https://i0.hdslb.com/bfs/face/ecebb1eb0347fb2ca457575e3077793f8f49fbad.gif",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 51,
+            "area_name": "原创绘画",
+            "play_url": "http://txy.live-play.acgvideo.com/live-txy/773854/live_7238830_9044299.flv?wsSecret=2a1bae0f83db126c0d15771b53d63288&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          },
+          {
+            "roomid": 157966,
+            "uid": 2929582,
+            "title": "这个手工UP主竟然在画图",
+            "uname": "折纸的白叔",
+            "online": 3121,
+            "user_cover": "https://i0.hdslb.com/bfs/live/1654436adbf9837a33a7e89662cc1ce636b570cd.jpg",
+            "user_cover_flag": 1,
+            "system_cover": "https://i0.hdslb.com/bfs/live/157966.jpg?10051715",
+            "link": "/157966",
+            "face": "https://i1.hdslb.com/bfs/face/6e33efdb6767ed231e43d02d215cceac9347976f.jpg",
+            "cover_size": {
+              "height": 180,
+              "width": 320
+            },
+            "parent_id": 4,
+            "parent_name": "绘画",
+            "area_id": 96,
+            "area_name": "其他绘画",
+            "play_url": "http://xl.live-play.acgvideo.com/live-xl/570961/live_2929582_2166127.flv?wsSecret=b4eb850cf759c7935771b2a2ee6dc36a&wsTime=1507197542",
+            "accept_quality": "4",
+            "broadcast_type": 0,
+            "is_tv": 0,
+            "corner": ""
+          }
+        ]
+      }
+    ],
+    "recommend_data": {
+      "lives": [
+        {
+          "owner": {
+            "face": "https://i1.hdslb.com/bfs/face/ad7b2a68f5aa4ec2a117ade793312122a37e04cc.jpg",
+            "mid": 8581342,
+            "name": "浅野菌子"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/39c05bd87cfda9cae7a93542bb5bf5542cbfc6d2.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 96136,
+          "check_version": 0,
+          "online": 15170,
+          "area": "生活娱乐",
+          "area_id": 6,
+          "title": "菌子群聚，基佬搞基大会",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/992139/live_8581342_5446862.flv?wsSecret=105ba58103dd5a7f68db547729707245&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 32,
+          "area_v2_name": "手机直播",
+          "area_v2_parent_id": 1,
+          "area_v2_parent_name": "娱乐",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i0.hdslb.com/bfs/face/a0f378a5d69c99f5287befd540152590a35bf204.jpg",
+            "mid": 29807735,
+            "name": "顾言Gyy"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/36653dc910ddb0cb88a14e1931588437c81fe88f.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 213678,
+          "check_version": 0,
+          "online": 6680,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "菜鸡主播~吃鸡~吃鸡~",
+          "playurl": "http://dl.live-play.acgvideo.com/live-dl/554928/live_29807735_6308813.flv?wsSecret=7595b3434c4058b74ba942d01c1ac4b9&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 80,
+          "area_v2_name": "绝地求生：大逃杀",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/6da3e04dcb01237af3b9b446d39121e67009b1f6.jpg",
+            "mid": 4528719,
+            "name": "旋转的亚索"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/57fc4d3e8fe61ff2e836f8f9339790d6e252b8e2.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 18057,
+          "check_version": 0,
+          "online": 5894,
+          "area": "网络游戏",
+          "area_id": 3,
+          "title": "300英雄真的不好玩",
+          "playurl": "http://live-play.acgvideo.com/live/885/live_4528719_332_c521e483.flv?wsSecret=4a2f072b253bf4d3d44d5111fb23e066&wsTime=59ae7c6e",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 84,
+          "area_v2_name": "300英雄",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i1.hdslb.com/bfs/face/ea6819fa6c83e78b1c72c938ddee3e717b942e25.jpg",
+            "mid": 11485536,
+            "name": "不给摘的小橙花"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/8eab7abcad7a19801092a1064a72d484a715f9f2.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 44458,
+          "check_version": 0,
+          "online": 11573,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "哎呀~打会儿简单的小游戏吧~",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/482850/live_11485536_8989799.flv?wsSecret=cec25265729ff950f0a5098b573d8d36&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 107,
+          "area_v2_name": "其他游戏",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/84ae3f658db7f76406f4c9d5f94a16f60b7d9474.jpg",
+            "mid": 1657102,
+            "name": "游涡鸣人"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/a2294b53c6f439e91b53038f2bb4e845e563de66.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 42285,
+          "check_version": 0,
+          "online": 6373,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "不知道取什么标题",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/714713/live_1657102_332_c521e483.flv?wsSecret=17ab5a34de6a02c170adb74deb4af6b3&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 80,
+          "area_v2_name": "绝地求生：大逃杀",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/b30b947c58c6b1011136621a3ab54c0031c920fe.jpg",
+            "mid": 93841264,
+            "name": "梦醒三生梦"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/3a0a80d176cfaa621bf20c9a08b3383d505d4268.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 3742025,
+          "check_version": 0,
+          "online": 101261,
+          "area": "手游直播",
+          "area_id": 12,
+          "title": "二狗带你看懂王者荣耀",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/964766/live_93841264_4272534.flv?wsSecret=dced2c165d8566d0dbd5f5490d8ecc22&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 35,
+          "area_v2_name": "王者荣耀",
+          "area_v2_parent_id": 3,
+          "area_v2_parent_name": "手游",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i1.hdslb.com/bfs/face/1f2cc03bc48890ac183a2ef0feb0409a7e262fa8.jpg",
+            "mid": 183430,
+            "name": "两仪滚"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/da03211574b2c20e11e94e142c3654ac26d7f589.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 5096,
+          "check_version": 0,
+          "online": 96862,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "【滚】绝地求生大逃杀",
+          "playurl": "http://live-play.acgvideo.com/live/459/live_183430_5743361.flv?wsSecret=6b5635204c85a4831be026089a08dff7&wsTime=59ae7c6e",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 80,
+          "area_v2_name": "绝地求生：大逃杀",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i0.hdslb.com/bfs/face/d26890e2f93ddfab10f2e21f93222ecab5da8e8a.gif",
+            "mid": 1998535,
+            "name": "（≥ω≤）"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/bc37314d6de09f71fb23e487136be276e194b233.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 5269,
+          "check_version": 0,
+          "online": 14128,
+          "area": "生活娱乐",
+          "area_id": 6,
+          "title": "iPanda熊猫频道和你们开开心心在一起~~",
+          "playurl": "http://live-play.acgvideo.com/live/863/live_1998535_9286339.flv?wsSecret=4a8af71a7ac71c3ae80c0e889a9ae2a4&wsTime=59ae7c6e",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 123,
+          "area_v2_name": "户外",
+          "area_v2_parent_id": 1,
+          "area_v2_parent_name": "娱乐",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/0d80b9eee8a2e573f026abd6a5883fe9dd8e39b3.jpg",
+            "mid": 634131,
+            "name": "肥皂菌丨珉珉的猫咪丨"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/10d0bbbb46a631f4ecbdee4a5bf74925a485e569.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 78787,
+          "check_version": 0,
+          "online": 31221,
+          "area": "唱见舞见",
+          "area_id": 10,
+          "title": "终于打开电脑了！",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/174361/live_634131_7882687.flv?wsSecret=1b7271b0e28a585fe7efdf63d7bf67b9&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 21,
+          "area_v2_name": "唱见",
+          "area_v2_parent_id": 1,
+          "area_v2_parent_name": "娱乐",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/ce10c759df53720268b23ef8bd06150aa61834a5.jpg",
+            "mid": 659965,
+            "name": "基佬爱上熊"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/2161233f8213369f618e9b066c28e733844befe8.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 16101,
+          "check_version": 0,
+          "online": 19358,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "日常练习推树",
+          "playurl": "http://txy.live-play.acgvideo.com/live-txy/793642/live_659965_4719464.flv?wsSecret=954a2004d4386c21e43f9b4bfaace2b5&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 107,
+          "area_v2_name": "其他游戏",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i2.hdslb.com/bfs/face/39eb7a524f7789be401beb6bad41fc82ea137c01.jpg",
+            "mid": 28642912,
+            "name": "沙画师半透明"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/6a39471102c2264b730d4b5a5cf2169fa4173316.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 109506,
+          "check_version": 0,
+          "online": 9164,
+          "area": "绘画专区",
+          "area_id": 9,
+          "title": "沙画直播",
+          "playurl": "http://live-play.acgvideo.com/live/694/live_28642912_8551809.flv?wsSecret=ce2a9395c66cf4818e09f180fbf06f70&wsTime=59ae7c6e",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 96,
+          "area_v2_name": "其他绘画",
+          "area_v2_parent_id": 4,
+          "area_v2_parent_name": "绘画",
+          "corner": ""
+        },
+        {
+          "owner": {
+            "face": "https://i1.hdslb.com/bfs/face/d7b5e23b8ad7140240fd1ed132c180420ae5b54a.jpg",
+            "mid": 14308645,
+            "name": "37不是37"
+          },
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/f328014e53bdbf1b99447617f54ec8890a292ede.jpg",
+            "height": 180,
+            "width": 320
+          },
+          "room_id": 175412,
+          "check_version": 0,
+          "online": 19735,
+          "area": "单机联机",
+          "area_id": 1,
+          "title": "【37】中秋快乐~打枪",
+          "playurl": "http://xl.live-play.acgvideo.com/live-xl/974626/live_14308645_7533758.flv?wsSecret=75b5e84f373ac724fe44329339c626a0&wsTime=1507197542",
+          "accept_quality": "4",
+          "broadcast_type": 0,
+          "is_tv": 0,
+          "area_v2_id": 80,
+          "area_v2_name": "绝地求生：大逃杀",
+          "area_v2_parent_id": 2,
+          "area_v2_parent_name": "游戏",
+          "corner": ""
+        }
+      ],
+      "partition": {
+        "id": 0,
+        "name": "推荐主播",
+        "area": "hot",
+        "sub_icon": {
+          "src": "https://static.hdslb.com/live-static/images/mobile/ios/phone/-1_s_2x.png?20170927172700",
+          "height": "40",
+          "width": "40"
+        },
+        "count": 4522
+      },
+      "banner_data": [
+        {
+          "cover": {
+            "src": "https://i0.hdslb.com/bfs/live/348fbbc30ca1578d900b44dda64acd1310b1d05e.png",
+            "height": 180,
+            "width": 320
+          },
+          "title": "今天，你的小视频上榜了吗？",
+          "is_clip": 1
+        }
+      ]
+    }
+  }
+}

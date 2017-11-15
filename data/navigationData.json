@@ -1,0 +1,903 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "param": "13",
+      "type": "bangumi",
+      "style": "medium",
+      "title": "番剧区",
+      "logo": "http://i0.hdslb.com/bfs/archive/27943c13c05245108f7fb9afb7a2dcbfc1f5e132.png",
+      "body": [
+        {
+          "title": "关于我女友是个一本正经的碧池这件事",
+          "cover": "http://i0.hdslb.com/bfs/archive/53a7e65419dcfef922241853ca98c4997552ebee.jpg",
+          "uri": "http://bangumi.bilibili.com/anime/6465",
+          "param": "6465",
+          "goto": "bangumi",
+          "play": 2451411,
+          "index": "2",
+          "total_count": "10",
+          "mtime": "2017-10-19 01:00:00.0",
+          "status": 2,
+          "favourite": 1068856,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "此花亭奇谭",
+          "cover": "http://i0.hdslb.com/bfs/archive/dfcefb23a69f04f790c66464be3d89cd9fd5c0e6.jpg",
+          "uri": "http://bangumi.bilibili.com/anime/6425",
+          "param": "6425",
+          "goto": "bangumi",
+          "play": 1972632,
+          "index": "3",
+          "total_count": "12",
+          "mtime": "2017-10-19 00:00:00.0",
+          "status": 2,
+          "favourite": 637170,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "雨色Convention",
+          "cover": "http://i2.hdslb.com/bfs/archive/09aedde45c39f10c9e289485999f308d6df8670f.jpg",
+          "uri": "http://bangumi.bilibili.com/anime/6476",
+          "param": "6476",
+          "goto": "bangumi",
+          "play": 126380,
+          "index": "3",
+          "total_count": "12",
+          "mtime": "2017-10-18 23:30:00.0",
+          "status": 2,
+          "favourite": 28813,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "TSUKIPRO",
+          "cover": "http://i0.hdslb.com/bfs/archive/4ae35d9795ecb25047f7c6e5cc14910bcbee6219.jpg",
+          "uri": "http://bangumi.bilibili.com/anime/6453",
+          "param": "6453",
+          "goto": "bangumi",
+          "play": 386980,
+          "index": "3",
+          "total_count": "13",
+          "mtime": "2017-10-18 22:30:00.0",
+          "status": 2,
+          "favourite": 71796,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ],
+      "banner": {
+        "top": [
+          {
+            "id": 90682,
+            "title": "番剧1015",
+            "image": "http://i0.hdslb.com/bfs/archive/f157fee6c6eda63b15960cd2668a8ffeb7116052.jpg",
+            "hash": "6dcaa1a5b058a1e9ff1b79ad2062261a",
+            "uri": "http://www.bilibili.com/blackboard/topic/activity-BkUknf02Z.html",
+            "resource_id": 471,
+            "request_id": "1508415973021",
+            "is_ad": false,
+            "cm_mark": 0,
+            "index": 1,
+            "server_type": 0
+          }
+        ]
+      }
+    },
+    {
+      "param": "1",
+      "type": "region",
+      "style": "medium",
+      "title": "动画区",
+      "logo": "http://i0.hdslb.com/bfs/archive/4bbbc75be23e1a4eba4d71caee90b3d1ce83b82f.png",
+      "body": [
+        {
+          "title": "【凹凸世界 手书】遥控器",
+          "cover": "http://i0.hdslb.com/bfs/archive/4534d668156ec477442298e6962aac49351f2dcd.jpg",
+          "uri": "bilibili://video/15498895",
+          "param": "15498895",
+          "goto": "av",
+          "play": 17799,
+          "danmaku": 508,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【Trance/AMV/视觉】视觉的极致盛宴？LOVE IS YOUR HOME",
+          "cover": "http://i2.hdslb.com/bfs/archive/67426a1554dae358bfd70fe4bafb67c46355146b.png",
+          "uri": "bilibili://video/15468388",
+          "param": "15468388",
+          "goto": "av",
+          "play": 413,
+          "danmaku": 9,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【夏娜MMD】薛定谔的小夏娜，60帧测试。",
+          "cover": "http://i2.hdslb.com/bfs/archive/f0df9488138e0971533488b85c62c885c381ad9f.jpg",
+          "uri": "bilibili://video/15508964",
+          "param": "15508964",
+          "goto": "av",
+          "play": 112,
+          "danmaku": 5,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【月声中配】关于男大学生寝室熄灯之后的社会研究",
+          "cover": "http://i0.hdslb.com/bfs/archive/6aac5c2a2b26c413fb5922c53a71dc4974db9109.jpg",
+          "uri": "bilibili://video/15492150",
+          "param": "15492150",
+          "goto": "av",
+          "play": 108168,
+          "danmaku": 1699,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ],
+      "banner": {
+        "top": [
+          {
+            "id": 91662,
+            "title": "动画1017",
+            "image": "http://i0.hdslb.com/bfs/archive/b2be1a7e72ea11f17f893726beb18e3448f60eea.jpg",
+            "hash": "d64f3bfad93decf3e04f1d20d78619fe",
+            "uri": "https://www.bilibili.com/read/cv36618",
+            "resource_id": 470,
+            "request_id": "1508415973021",
+            "is_ad": false,
+            "cm_mark": 0,
+            "index": 1,
+            "server_type": 0
+          }
+        ]
+      }
+    },
+    {
+      "param": "167",
+      "type": "region",
+      "style": "medium",
+      "title": "国创区",
+      "logo": "http://i0.hdslb.com/bfs/archive/d67f36e422e9813b9a2bd765af7ba7b7eabcc983.png",
+      "body": [
+        {
+          "title": "全一期个人耽美微短剧《Kiss the Yoghurt》（斑马 风雨归舟）",
+          "cover": "http://i1.hdslb.com/bfs/archive/a9924131d3581ef13e0753684b1fa3c4e2c2bdcf.jpg",
+          "uri": "bilibili://video/15462960",
+          "param": "15462960",
+          "goto": "av",
+          "play": 5019,
+          "danmaku": 142,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "流口水啦！《狐妖小红娘》主题女仆咖啡厅",
+          "cover": "http://i2.hdslb.com/bfs/archive/af3cbc3a2064e75d5eb3bbc5839c5aa93c499001.jpg",
+          "uri": "bilibili://video/15512059",
+          "param": "15512059",
+          "goto": "av",
+          "play": 17640,
+          "danmaku": 176,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "君命天下 奉天而行",
+          "cover": "http://i1.hdslb.com/bfs/archive/1e98ea669b23217d79150be9ba0afa723df18d68.png",
+          "uri": "bilibili://video/15498039",
+          "param": "15498039",
+          "goto": "av",
+          "play": 1270,
+          "danmaku": 7,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "ido24不♂正♂经的凹凸人又是新一波的搞事❤",
+          "cover": "http://i2.hdslb.com/bfs/archive/e04695f374cb8f9a3718dfb7adf3511380e68aa4.jpg",
+          "uri": "bilibili://video/15439416",
+          "param": "15439416",
+          "goto": "av",
+          "play": 559,
+          "danmaku": 20,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ],
+      "banner": {
+        "top": [
+          {
+            "id": 91230,
+            "title": "国创1016",
+            "image": "http://i0.hdslb.com/bfs/archive/4c46c8f9eb7b902406a41e82ef8c2177cadae44b.jpg",
+            "hash": "ada11b1194ad00d6d404ed757d00e123",
+            "uri": "http://www.bilibili.com/blackboard/heibaiSelected-H5.html",
+            "resource_id": 1950,
+            "request_id": "1508415973021",
+            "is_ad": false,
+            "cm_mark": 0,
+            "index": 1,
+            "server_type": 0
+          }
+        ]
+      }
+    },
+    {
+      "param": "3",
+      "type": "region",
+      "style": "medium",
+      "title": "音乐区",
+      "logo": "http://i0.hdslb.com/bfs/archive/18831eb27ec2acc44dd6664d3dc3b4bdcf6c874c.png",
+      "body": [
+        {
+          "title": "【初音ミク】identity crisis【アリエP】",
+          "cover": "http://i1.hdslb.com/bfs/archive/8fa5e47676fadca740163774297536685bf505c5.jpg",
+          "uri": "bilibili://video/15502648",
+          "param": "15502648",
+          "goto": "av",
+          "play": 122,
+          "danmaku": 1,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【逗比洗耳专辑】曲目三《长安忆》，翻唱：西晨、方梦非。",
+          "cover": "http://i1.hdslb.com/bfs/archive/39dc30dd09cc0390e6b2e0486c3a673500b042af.jpg",
+          "uri": "bilibili://video/15502396",
+          "param": "15502396",
+          "goto": "av",
+          "play": 8103,
+          "danmaku": 407,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【夏一可】《病名为爱》中文填词+翻唱",
+          "cover": "http://i1.hdslb.com/bfs/archive/883ab950f23f17990631c750c6a02d1093664068.jpg",
+          "uri": "bilibili://video/15510678",
+          "param": "15510678",
+          "goto": "av",
+          "play": 107658,
+          "danmaku": 1535,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【阿沧沧】薄ら氷心中「昭和元禄落语心中」OP",
+          "cover": "http://i1.hdslb.com/bfs/archive/37d5f9fbb74dc63122f0baad700749ecd747a1ba.jpg",
+          "uri": "bilibili://video/15477392",
+          "param": "15477392",
+          "goto": "av",
+          "play": 166,
+          "danmaku": 5,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ],
+      "banner": {
+        "top": [
+          {
+            "id": 92046,
+            "title": "音乐1018",
+            "image": "http://i0.hdslb.com/bfs/archive/ee973eec6f1c1235d2ceb1b2bf6090fb931b7e25.jpg",
+            "hash": "86e20894152b28dc60aea12c059f438a",
+            "uri": "http://www.bilibili.com/blackboard/topic/activity-S193W223-.html",
+            "resource_id": 472,
+            "request_id": "1508415973021",
+            "is_ad": false,
+            "cm_mark": 0,
+            "index": 1,
+            "server_type": 0
+          }
+        ]
+      }
+    },
+    {
+      "param": "129",
+      "type": "region",
+      "style": "medium",
+      "title": "舞蹈区",
+      "logo": "http://i0.hdslb.com/bfs/archive/4adff6f9a6bb85f1e21c2631e371e836b76ab6db.png",
+      "body": [
+        {
+          "title": "【言熙】神的随波逐流~~能让你越来越强大的力量",
+          "cover": "http://i2.hdslb.com/bfs/archive/749a18d0648b11176c6771f6280e1276952a5ab8.jpg",
+          "uri": "bilibili://video/15481515",
+          "param": "15481515",
+          "goto": "av",
+          "play": 4189,
+          "danmaku": 50,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【超炸卡点电音舞】Hanzo帅气同步率戈壁编舞比伯热单2U",
+          "cover": "http://i2.hdslb.com/bfs/archive/66475bbaa4f8de0eb6fb6eda6d607a69b866ce01.jpg",
+          "uri": "bilibili://video/15497509",
+          "param": "15497509",
+          "goto": "av",
+          "play": 3540,
+          "danmaku": 27,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【@小萌】♡兔耳短裙COS萌妹~宅舞3连跳",
+          "cover": "http://i0.hdslb.com/bfs/archive/4a01266c4674c67633236602d2b21a9e28809b77.jpg",
+          "uri": "bilibili://video/15505586",
+          "param": "15505586",
+          "goto": "av",
+          "play": 22721,
+          "danmaku": 117,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【JUN之舞者】__ 张艺兴__Sheep （教学2）",
+          "cover": "http://i1.hdslb.com/bfs/archive/e32c3718ddf0f4490a79cec8ef84288ac8637750.jpg",
+          "uri": "bilibili://video/15473064",
+          "param": "15473064",
+          "goto": "av",
+          "play": 847,
+          "danmaku": 2,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "4",
+      "type": "region",
+      "style": "medium",
+      "title": "游戏区",
+      "logo": "http://i0.hdslb.com/bfs/archive/e7141243e593d35d35b34929034022748b267d3d.png",
+      "body": [
+        {
+          "title": "【DEMO】搭白算数，你们要的双更",
+          "cover": "http://i2.hdslb.com/bfs/archive/68c4b34dba805638551e16225365566c8ca18664.jpg",
+          "uri": "bilibili://video/15485450",
+          "param": "15485450",
+          "goto": "av",
+          "play": 267307,
+          "danmaku": 1560,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "Dota 2 WTF Moments 250",
+          "cover": "http://i2.hdslb.com/bfs/archive/fff18c54a6364166f24b3b8e293481fe2eaf0004.jpg",
+          "uri": "bilibili://video/15471757",
+          "param": "15471757",
+          "goto": "av",
+          "play": 95118,
+          "danmaku": 1253,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【迦勒底补给站】FGO与伊利亚联动攻略",
+          "cover": "http://i2.hdslb.com/bfs/archive/894e0d24e1496307376c43c65249ecaddfc4d454.jpg",
+          "uri": "bilibili://video/15519931",
+          "param": "15519931",
+          "goto": "av",
+          "play": 3571,
+          "danmaku": 121,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【404】吃鸡偶遇日本小哥？异国hentai相遇后会擦出怎样的火花【国际大网骗第一期】",
+          "cover": "http://i1.hdslb.com/bfs/archive/ec34729f641971b238983b59a60cf0508e959b0d.jpg",
+          "uri": "bilibili://video/15472905",
+          "param": "15472905",
+          "goto": "av",
+          "play": 103325,
+          "danmaku": 1723,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "119",
+      "type": "region",
+      "style": "medium",
+      "title": "鬼畜区",
+      "logo": "http://i0.hdslb.com/bfs/archive/54972cd025c2bf8ae965ac8bd2c53ddc908e3608.png",
+      "body": [
+        {
+          "title": "【科学RAP】欢迎走近不科学！",
+          "cover": "http://i2.hdslb.com/bfs/archive/a41b662b48c28c7f5b88564249c2dca66c1bd2d6.png",
+          "uri": "bilibili://video/15482850",
+          "param": "15482850",
+          "goto": "av",
+          "play": 2690,
+          "danmaku": 48,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【电音海豹】病名为啊啊啊啊啊啊啊啊！！！！！",
+          "cover": "http://i2.hdslb.com/bfs/archive/bb0fcb9754b8a4eeb88a5df3d54cee0e51bc3875.png",
+          "uri": "bilibili://video/15483184",
+          "param": "15483184",
+          "goto": "av",
+          "play": 402230,
+          "danmaku": 2138,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【岳不群】等待（开口跪系列）",
+          "cover": "http://i1.hdslb.com/bfs/archive/baf73f6cb27ee8987bb817b97fd0519b2c2fb972.png",
+          "uri": "bilibili://video/15470451",
+          "param": "15470451",
+          "goto": "av",
+          "play": 73825,
+          "danmaku": 382,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "非洲人都是活雷锋",
+          "cover": "http://i2.hdslb.com/bfs/archive/325812c679ca0ddf8e387b8e7259611fc3de8120.jpg",
+          "uri": "bilibili://video/15509562",
+          "param": "15509562",
+          "goto": "av",
+          "play": 78226,
+          "danmaku": 391,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "160",
+      "type": "region",
+      "style": "medium",
+      "title": "生活区",
+      "logo": "http://i0.hdslb.com/bfs/archive/31949b4de39346d205c7879cf859e74545bfe38f.png",
+      "body": [
+        {
+          "title": "让粗粮更好吃的秘诀，我一次给你解锁3个【曼食慢语】",
+          "cover": "http://i0.hdslb.com/bfs/archive/4cd6b7efa4218a8e5ddebb7595d9c854ac487270.jpg",
+          "uri": "bilibili://video/15506121",
+          "param": "15506121",
+          "goto": "av",
+          "play": 44541,
+          "danmaku": 538,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【同人音声】愿来世还能与你相遇【中文字幕典藏版】(蓝月)",
+          "cover": "http://i1.hdslb.com/bfs/archive/dbef7bed5b0e029f277024a8bb3b677de9fc2735.png",
+          "uri": "bilibili://video/15484243",
+          "param": "15484243",
+          "goto": "av",
+          "play": 6752,
+          "danmaku": 325,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【Fight Tips】可以加强格斗躲闪能力的练习 @奶酪君Combat 翻译",
+          "cover": "http://i2.hdslb.com/bfs/archive/622518a3b0e27b1242116241b36d2e569e9bb036.jpg",
+          "uri": "bilibili://video/15473731",
+          "param": "15473731",
+          "goto": "av",
+          "play": 3967,
+          "danmaku": 23,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "PS【厚涂】涂了一个女儿（衣服插入的图是早期自己画的一张图~",
+          "cover": "http://i0.hdslb.com/bfs/archive/e9f37e3e13fd73f1567837217266a45fa5704e7e.jpg",
+          "uri": "bilibili://video/15457734",
+          "param": "15457734",
+          "goto": "av",
+          "play": 3668,
+          "danmaku": 47,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "36",
+      "type": "region",
+      "style": "medium",
+      "title": "科技区",
+      "logo": "http://i0.hdslb.com/bfs/archive/a98c192e5909721203e035826a85a78b3a075c4f.png",
+      "body": [
+        {
+          "title": "【化学实验】老教授的最爱，油管上U管里的吠叫反应欣赏@油兔不二字幕组",
+          "cover": "http://i0.hdslb.com/bfs/archive/b4fa97a95eb1ef0e33c9b5203d858d77dee8375e.jpg",
+          "uri": "bilibili://video/15491454",
+          "param": "15491454",
+          "goto": "av",
+          "play": 2260,
+          "danmaku": 16,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【Jared Dines/中字】10个 吉他手 装X的实用技巧 (新手向)",
+          "cover": "http://i0.hdslb.com/bfs/archive/e9bf2d513a207dc572768d538c6860b94a96ac09.jpg",
+          "uri": "bilibili://video/15470163",
+          "param": "15470163",
+          "goto": "av",
+          "play": 2640,
+          "danmaku": 34,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【纪录片】《川味》第二季",
+          "cover": "http://i0.hdslb.com/bfs/archive/287f3b3621fa65401dbcd705d26daf9393c0b86b.png",
+          "uri": "bilibili://video/15479413",
+          "param": "15479413",
+          "goto": "av",
+          "play": 48318,
+          "danmaku": 2357,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【军武MINI】60：辽宁号航母前传",
+          "cover": "http://i1.hdslb.com/bfs/archive/68578f820e6993264a23b4bd055a4a77aa779fd2.jpg",
+          "uri": "bilibili://video/15509398",
+          "param": "15509398",
+          "goto": "av",
+          "play": 34234,
+          "danmaku": 674,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ],
+      "banner": {
+        "top": [
+          {
+            "id": 92474,
+            "title": "科技1019",
+            "image": "http://i0.hdslb.com/bfs/archive/894e3ac05895ddf8ed1aed9a89aead7d682add0d.jpg",
+            "hash": "133aea14672ff00dca658ba8aa254332",
+            "uri": "http://www.bilibili.com/blackboard/topic/activity-SyfBpXXTZ.html",
+            "resource_id": 475,
+            "request_id": "1508415973021",
+            "is_ad": false,
+            "cm_mark": 0,
+            "index": 1,
+            "server_type": 0
+          }
+        ]
+      }
+    },
+    {
+      "param": "subarea",
+      "type": "activity",
+      "style": "small",
+      "title": "活动中心",
+      "body": [
+        {
+          "title": "前方一大波主子(o´ω`o)",
+          "cover": "http://i0.hdslb.com/bfs/archive/5f1bf0b2c416b417beb0435575d03812af3ab964.jpg",
+          "uri": "https://www.bilibili.com/blackboard/activity-meme1st-h5.html",
+          "param": "https://www.bilibili.com/blackboard/activity-meme1st-h5.html",
+          "goto": "web",
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "属于七夕的故事，属于你的羁绊。",
+          "cover": "http://i0.hdslb.com/bfs/archive/5d86b97c72d348de0b686284925cc8336db7293e.png",
+          "uri": "http://www.bilibili.com/blackboard/double7.html",
+          "param": "http://www.bilibili.com/blackboard/double7.html",
+          "goto": "web",
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "一起来为喜爱的角色投票吧！",
+          "cover": "http://i0.hdslb.com/bfs/archive/4ab057660bd0f8c3da875d6f8c21999f0fd0d6c8.jpg",
+          "uri": "http://bangumi.bilibili.com/moe/2017/jp/mobile/",
+          "param": "http://bangumi.bilibili.com/moe/2017/jp/mobile/",
+          "goto": "web",
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "你的想法，将在这里闪耀 (<ゝω·) ☆",
+          "cover": "http://i0.hdslb.com/bfs/archive/0afc2846040b73d6d8cc199ed4fa580154b9dd6e.png",
+          "uri": "http://www.bilibili.com/blackboard/activity-Original1st-m.html",
+          "param": "http://www.bilibili.com/blackboard/activity-Original1st-m.html",
+          "goto": "web",
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "什么，小电视们被绑走了！？",
+          "cover": "http://i0.hdslb.com/bfs/archive/6d606f7f12e847049b537e75ddb22f4842434ced.jpg",
+          "uri": "http://www.bilibili.com/blackboard/activity-61dungeon.html",
+          "param": "http://www.bilibili.com/blackboard/activity-61dungeon.html",
+          "goto": "web",
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "155",
+      "type": "region",
+      "style": "medium",
+      "title": "时尚区",
+      "logo": "http://i0.hdslb.com/bfs/archive/0f26c403c22cf4c55b2c704f929bceb20a4aee97.png",
+      "body": [
+        {
+          "title": "【试色】Charlotte Tilbury Hollywood Lips CT唇釉10色全试色",
+          "cover": "http://i2.hdslb.com/bfs/archive/d297a7f16ea8c20fe6075ced44aa755d457c5222.jpg",
+          "uri": "bilibili://video/15515407",
+          "param": "15515407",
+          "goto": "av",
+          "play": 902,
+          "danmaku": 39,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "PS级穿搭术，再也不用做“照骗”",
+          "cover": "http://i2.hdslb.com/bfs/archive/775493f708c73c66e48cde85fbe8b2c74ef6df8a.jpg",
+          "uri": "bilibili://video/15488539",
+          "param": "15488539",
+          "goto": "av",
+          "play": 26038,
+          "danmaku": 139,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "[中字] NikkieTutorials | 史上最棒的平价暖调盘? Morphe35O二代眼影盘妆教测评 #BUM",
+          "cover": "http://i1.hdslb.com/bfs/archive/90000dc6659caebfa84bbc8202e6649d9a7ad1fc.jpg",
+          "uri": "bilibili://video/15471839",
+          "param": "15471839",
+          "goto": "av",
+          "play": 3621,
+          "danmaku": 75,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【行云流水的涂唇膏视频】第四十五弹",
+          "cover": "http://i0.hdslb.com/bfs/archive/104ec33c68a2baccfcec8c754fb5c63ed0d02008.jpg",
+          "uri": "bilibili://video/15464504",
+          "param": "15464504",
+          "goto": "av",
+          "play": 37498,
+          "danmaku": 259,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "165",
+      "type": "region",
+      "style": "medium",
+      "title": "广告区",
+      "logo": "http://i0.hdslb.com/bfs/archive/a6a9e2ce67069d81ff4c5e04b4028eba31ab40ce.png",
+      "body": [
+        {
+          "title": "【爱乃团】乃木坂46 明治Essel Super Cup sweet's 试吃报告②",
+          "cover": "http://i2.hdslb.com/bfs/archive/53f71463ba108b44322dc9361df99cf5de7b04da.jpg",
+          "uri": "bilibili://video/15520053",
+          "param": "15520053",
+          "goto": "av",
+          "play": 735,
+          "danmaku": 19,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【爱乃团】乃木坂46 明治Essel Super Cup sweet's 试吃报告①",
+          "cover": "http://i1.hdslb.com/bfs/archive/f4021cb9f3233f19b31ca301cd6da927ef284cb4.jpg",
+          "uri": "bilibili://video/15476543",
+          "param": "15476543",
+          "goto": "av",
+          "play": 1055,
+          "danmaku": 3,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "2017.10.18 ABEMA TV 72小时宣番 电视版（流行词语） 完全不了解流行词语的草儿哈哈哈(电视版) 新しい地図",
+          "cover": "http://i0.hdslb.com/bfs/archive/cb70dd54e10c6eb47481f58d5962a64b4aef07bd.jpg",
+          "uri": "bilibili://video/15503619",
+          "param": "15503619",
+          "goto": "av",
+          "play": 147,
+          "danmaku": 7,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【鹿晗】欧舒丹鹿晗果敢而真预告片",
+          "cover": "http://i2.hdslb.com/bfs/archive/b530163a90c05e2befe97772ec37258174004e29.jpg",
+          "uri": "bilibili://video/15478742",
+          "param": "15478742",
+          "goto": "av",
+          "play": 2045,
+          "danmaku": 20,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "5",
+      "type": "region",
+      "style": "medium",
+      "title": "娱乐区",
+      "logo": "http://i0.hdslb.com/bfs/archive/535e4c098e2005061bf1eca9a61db5d57745056e.png",
+      "body": [
+        {
+          "title": "【华晨宇】火星演唱会2017.10.13 全程饭拍",
+          "cover": "http://i1.hdslb.com/bfs/archive/c461afe998daa0b1b4d89c5d733e146a39bdbab0.jpg",
+          "uri": "bilibili://video/15471907",
+          "param": "15471907",
+          "goto": "av",
+          "play": 2764,
+          "danmaku": 22,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【中字】2017.10.02 中居正廣的怪談圖書館 DOCTOR-X團隊參戰3小時SP (米倉涼子CUT)",
+          "cover": "http://i0.hdslb.com/bfs/archive/0f313cacb838adb6beeaaa150d1b0f78f60e2200.jpg",
+          "uri": "bilibili://video/15474443",
+          "param": "15474443",
+          "goto": "av",
+          "play": 1172,
+          "danmaku": 69,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【SNH48】总决选TOP48汇报MV《记忆中的你我》拍摄花絮",
+          "cover": "http://i2.hdslb.com/bfs/archive/fb461ba71f3d48fb80195a11709bceca70de30bb.jpg",
+          "uri": "bilibili://video/15478885",
+          "param": "15478885",
+          "goto": "av",
+          "play": 7083,
+          "danmaku": 453,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【有机星期一】【中字】20171009【小分队】",
+          "cover": "http://i0.hdslb.com/bfs/archive/6079bbfd91af32d4dd51502d45dd86e782d11547.jpg",
+          "uri": "bilibili://video/15479243",
+          "param": "15479243",
+          "goto": "av",
+          "play": 27476,
+          "danmaku": 1423,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "23",
+      "type": "region",
+      "style": "medium",
+      "title": "电影区",
+      "logo": "http://i0.hdslb.com/bfs/archive/6656aebc91fb8638f7a99176edb3ff9a40ef8686.png",
+      "body": [
+        {
+          "title": "【欧美群像】【反派混剪】- LEGEND  长得不够帅，怎么做反派？",
+          "cover": "http://i2.hdslb.com/bfs/archive/a077c620e9de2098bc71b39c6a1b306376b558bc.jpg",
+          "uri": "bilibili://video/15482411",
+          "param": "15482411",
+          "goto": "av",
+          "play": 2003,
+          "danmaku": 104,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【木鱼微剧场】《复仇者联盟》漫威电影系列",
+          "cover": "http://i2.hdslb.com/bfs/archive/eb38d0a4dd03644befd5d7aa7aabbe30d3ee4522.jpg",
+          "uri": "bilibili://video/15470439",
+          "param": "15470439",
+          "goto": "av",
+          "play": 260451,
+          "danmaku": 2603,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【阅后即瞎】好莱坞拍了一部《舌尖上的越战》",
+          "cover": "http://i2.hdslb.com/bfs/archive/c051645fd64d091caedc7a11a8f1b29c7da87b1a.jpg",
+          "uri": "bilibili://video/15456085",
+          "param": "15456085",
+          "goto": "av",
+          "play": 716032,
+          "danmaku": 9176,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【阿斗】这部蜘蛛电影让你肾上腺素飙升，看得我头皮发麻，阿斗带你速看《八脚怪》",
+          "cover": "http://i0.hdslb.com/bfs/archive/fc42df45a922ab33513fffc1625a3642175d4214.jpg",
+          "uri": "bilibili://video/15479615",
+          "param": "15479615",
+          "goto": "av",
+          "play": 192581,
+          "danmaku": 795,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    },
+    {
+      "param": "11",
+      "type": "region",
+      "style": "medium",
+      "title": "电视剧区",
+      "logo": "http://i0.hdslb.com/bfs/archive/8375e7e8cca84839d8a229e49faed9efa0a738aa.png",
+      "body": [
+        {
+          "title": "【脸/蛋/胡/靳/尹/鲁/旬/孝】盗贼黑帮杀手和追在他们屁股后面的特工们",
+          "cover": "http://i0.hdslb.com/bfs/archive/715def4d659a206ecdcd3a2a73c88e8f7908ce41.jpg",
+          "uri": "bilibili://video/15418851",
+          "param": "15418851",
+          "goto": "av",
+          "play": 13342,
+          "danmaku": 169,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【六道杂谈】童年经典《风云完结篇》！我要你，我现在就要你！",
+          "cover": "http://i1.hdslb.com/bfs/archive/0e8f5bef39fdd7f9c92ae413ed843544c966dd22.jpg",
+          "uri": "bilibili://video/15526350",
+          "param": "15526350",
+          "goto": "av",
+          "play": 72327,
+          "danmaku": 1911,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "41【怪异君毁经典2】《仙剑奇侠传》第二回",
+          "cover": "http://i2.hdslb.com/bfs/archive/67bceb0779b85ceae107d82d639f42d8907a9506.jpg",
+          "uri": "bilibili://video/15493283",
+          "param": "15493283",
+          "goto": "av",
+          "play": 177909,
+          "danmaku": 2609,
+          "is_ad": false,
+          "cm_mark": 0
+        },
+        {
+          "title": "【九筒封神榜】南美毒枭之王的魔幻现实主义人生 《毒枭》第1&2季",
+          "cover": "http://i2.hdslb.com/bfs/archive/4cc404568ace8e0b0000648d117b56e47785489c.jpg",
+          "uri": "bilibili://video/15514451",
+          "param": "15514451",
+          "goto": "av",
+          "play": 38389,
+          "danmaku": 443,
+          "is_ad": false,
+          "cm_mark": 0
+        }
+      ]
+    }
+  ],
+  "message": "",
+  "ttl": 25
+}

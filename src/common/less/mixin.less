@@ -1,0 +1,43 @@
+.device-image(@url) {
+  background-image: url("@{url}@2x.png");
+  @media (-webkit-min-device-pixel-ratio: 3),(min-device-pixel-ratio: 3) {
+    background-image: url("@{url}@3x.png");
+  }
+}
+
+.border-1px(@color) {
+  position: absolute;
+  &:after {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    border-top: 1px solid @color;
+    content: ' ';
+  }
+}
+
+.border-none() {
+  &:after {
+    display: none;
+  }
+}
+
+.iconImg(@num) {
+  &.decrease {
+    .device-image("../../common/img/decrease_@{num}")
+  }
+  &.discount {
+    .device-image("../../common/img/discount_@{num}")
+  }
+  &.special {
+    .device-image("../../common/img/special_@{num}")
+  }
+  &.invoice {
+    .device-image("../../common/img/invoice_@{num}")
+  }
+  &.guarantee {
+    .device-image("../../common/img/guarantee_@{num}")
+  }
+}

@@ -1,0 +1,1175 @@
+{
+  "code": 0,
+  "param": "0",
+  "goto": "banner_item",
+  "idx": 1506316032,
+  "bannerItem": [
+    {
+      "id": 83594,
+      "title": "动画0926",
+      "image": "http://i0.hdslb.com/bfs/archive/cffb08bcd189115b382b82d1633367b1a3596db1.jpg",
+      "hash": "ae3d82c0ee7f78b83be9a936f5f0889a",
+      "uri": "http://www.bilibili.com/blackboard/topic/activity-SyhS8gV9b.html",
+      "request_id": "1506408413668",
+      "server_type": 0,
+      "resource_id": 467,
+      "index": 1,
+      "cm_mark": 0
+    },
+    {
+      "id": 0,
+      "title": "",
+      "image": "https://i0.hdslb.com/bfs/sycp/creative_img/201709/ee142459787ebe7bf11893e1d371f28d.jpg",
+      "hash": "eff308b067c278b9dae46f3ca7f281f7",
+      "uri": "https://show.bilibili.com/m/platform/detail.html?id=10239&from=appsj_cpmdy_d",
+      "request_id": "1506408413691q172a18a61a102q494",
+      "creative_id": 4448,
+      "src_id": 551,
+      "is_ad": true,
+      "is_ad_loc": true,
+      "ad_cb": "CI4PEJ0eGOAiIPAuKAEwIjinBEIfMTUwNjQwODQxMzY5MXExNzJhMThhNjFhMTAycTQ5NEj788Dn6ytSCeW5v+W3nuW4gloJ5bm/5Lic55yBYgbkuK3lm71oAXABeICAgIAQgAEBiAEAkgENMTQuMTQ2LjkyLjE1MpoBB2RlZmF1bHSgAfAuqAEKsgEgDYLmtH9hYyylvldioiwCN+IiD00JA3OCvBnMGZzl9FW6AUxodHRwczovL3Nob3cuYmlsaWJpbGkuY29tL20vcGxhdGZvcm0vZGV0YWlsLmh0bWw/aWQ9MTAyMzkmZnJvbT1hcHBzal9jcG1keV9k",
+      "client_ip": "14.146.92.152",
+      "server_type": 1,
+      "resource_id": 467,
+      "index": 2,
+      "cm_mark": 1
+    },
+    {
+      "id": 0,
+      "title": "",
+      "image": "https://i0.hdslb.com/bfs/sycp/tmaterial/201709/b1934aa01e49440f6f46205c50ef820e.jpg",
+      "hash": "d5de34e75f9d09d58f383b39b313ba75",
+      "uri": "https://www.bilibili.com/blackboard/activity-QYFSDX-m.html?mz_ca=2056690&mz_sp=78O2e",
+      "request_id": "1506408413691q172a18a61a102q494",
+      "creative_id": 1182,
+      "src_id": 552,
+      "is_ad": true,
+      "is_ad_loc": true,
+      "ad_cb": "COkdEAAYngkgACgAMAI4qARCHzE1MDY0MDg0MTM2OTFxMTcyYTE4YTYxYTEwMnE0OTRI+/PA5+srUgnlub/lt57luIJaCeW5v+S4nOecgWIG5Lit5Zu9aAFwAXgAgAEAiAEkkgENMTQuMTQ2LjkyLjE1MpoBB2RlZmF1bHSgAQCoAQCyASB1INeuV7sh9R2Z/0zhxZWAoFgtNGUlujR6S0pFTGZs2roBVGh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS9ibGFja2JvYXJkL2FjdGl2aXR5LVFZRlNEWC1tLmh0bWw/bXpfY2E9MjA1NjY5MCZtel9zcD03OE8yZQ==",
+      "click_url": "http://e.cn.miaozhen.com/r/k=2056690&p=78O2e&dx=__IPDX__&rt=2&ns=__IP__&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&vo=33904ba19&vr=2&o=",
+      "client_ip": "14.146.92.152",
+      "server_type": 1,
+      "resource_id": 467,
+      "index": 3,
+      "cm_mark": 1
+    },
+    {
+      "id": 83508,
+      "title": "表情包2",
+      "image": "http://i0.hdslb.com/bfs/archive/3d96c41e4b39497176036b5c20fc94416a2beecd.png",
+      "hash": "62bbe13230b07e92036e452b33ef57f0",
+      "uri": "https://www.bilibili.com/blackboard/activity-meme1st-h5.html",
+      "request_id": "1506408413668",
+      "src_id": 551,
+      "is_ad_loc": true,
+      "client_ip": "222.168.27.61",
+      "server_type": 0,
+      "resource_id": 467,
+      "index": 4,
+      "cm_mark": 0
+    },
+    {
+      "id": 83508,
+      "title": "表情包2",
+      "image": "http://i0.hdslb.com/bfs/archive/07e18b46db506d9200c5461189f748c9fbbb429a.jpg",
+      "hash": "62bbe13230b07e92036e452b33ef57f0",
+      "uri": "https://www.bilibili.com/blackboard/activity-meme1st-h5.html",
+      "request_id": "1506408413668",
+      "src_id": 551,
+      "is_ad_loc": true,
+      "client_ip": "222.168.27.61",
+      "server_type": 0,
+      "resource_id": 467,
+      "index": 4,
+      "cm_mark": 0
+    }
+  ],
+  "recommend": [
+    {
+      "title": "【fgo】两仪式：活着的东西，就算是王哈桑，也杀给你看。",
+      "cover": "http://i2.hdslb.com/bfs/archive/0c13411b9ae53ed6cac0eb392a073c0957a45865.jpg",
+      "uri": "bilibili://video/14690803",
+      "param": "14690803",
+      "goto": "av",
+      "desc": "厨力放出A+++\n在高难度王哈桑里，也许是最华丽的抗即死和斩杀方式吧。\n\n素材处理和制作视频，\n花了非常非常多的时间，（40+小时）\n尼禄祭似乎都结束好几天了（扶额）\n算是非常迟到了。\n许多音效都是添加补录的，而且有大量剪辑。\n\n但是，希望会有人，理解我的这份感情吧。",
+      "play": 77991,
+      "danmaku": 503,
+      "reply": 712,
+      "favorite": 2810,
+      "coin": 4314,
+      "share": 724,
+      "rcmd_reason": {
+        "id": 2,
+        "content": "很多人点推荐",
+        "bg_color": "yellow",
+        "icon_location": "bottom"
+      },
+      "idx": 1506316031,
+      "tid": 172,
+      "tname": "手机游戏",
+      "tag": {
+        "tag_id": 3502,
+        "tag_name": "空之境界",
+        "count": {
+          "atten": 969
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:竹宫悠子"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:手机游戏"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:空之境界"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506074078,
+      "duration": 255,
+      "mid": 5243943,
+      "name": "竹宫悠子",
+      "face": "http://i0.hdslb.com/bfs/face/940a650d7fa6639cb1084f1bcca9d257ea2a1019.jpg"
+    },
+    {
+      "title": "【小焦】★一骑当千★满屏都是大白腿ヾ(≧∇≦*)ゝ",
+      "cover": "http://i1.hdslb.com/bfs/archive/6643c42b84b200b3c4b7fa1e0270c7e8891ba328.jpg",
+      "uri": "bilibili://video/15360559",
+      "param": "15360559",
+      "goto": "av",
+      "desc": "创作类型: 翻跳\n编舞出处: sm25754263\n歌曲出处: sm25754263\n简介: 微博：@小焦儿w\nQ群：569515549  欢迎来玩！\n录制于中山大学珠海校区体育馆  10.9\n参考振付：av2094663",
+      "play": 12270,
+      "danmaku": 61,
+      "reply": 77,
+      "favorite": 801,
+      "coin": 228,
+      "share": 13,
+      "idx": 1506316797,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 5514,
+        "tag_name": "一骑当千",
+        "count": {
+          "atten": 971
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:小焦儿w"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:一骑当千"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1507982403,
+      "duration": 210,
+      "mid": 25806515,
+      "name": "小焦儿w",
+      "face": "http://i0.hdslb.com/bfs/face/0fb6fb787b126bd75afa5a60de53d68f6a8aa066.jpg",
+      "request_id": "1508044205301q172a18a61a108q482",
+      "src_id": 1686,
+      "is_ad_loc": true,
+      "client_ip": "113.103.8.96",
+      "ad_index": 1
+    },
+    {
+      "title": "【牙牙】爱之诗——给你一个彩色的世界",
+      "cover": "http://i1.hdslb.com/bfs/archive/0990a3a6995a42da0fd9beb73769785deaa4d0e0.jpg",
+      "uri": "bilibili://video/14919642",
+      "param": "14919642",
+      "goto": "av",
+      "desc": "创作类型: 翻跳\n简介: 音源本家：sm22151787\n编舞：sm22969451\n舞见;@机智的牙牙酱\n摄影：@纯洁正义好少年\n碎碎念：我又开始翻一些早年的舞出来练了，我就是个跟不上时代的人·············",
+      "play": 7756,
+      "danmaku": 76,
+      "reply": 85,
+      "favorite": 361,
+      "coin": 279,
+      "share": 9,
+      "idx": 1506316135,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 2529366,
+        "tag_name": "lo娘",
+        "count": {
+          "atten": 348
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:机智的牙牙酱"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:lo娘"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506751301,
+      "duration": 262,
+      "mid": 4093899,
+      "name": "机智的牙牙酱",
+      "face": "http://i1.hdslb.com/bfs/face/f9c5889b850fe73316270a57993ad3f8e98bb723.jpg",
+      "request_id": "1506864696750q172a18a61a53q602",
+      "src_id": 1891,
+      "is_ad_loc": true,
+      "client_ip": "113.102.6.245",
+      "ad_index": 1
+    },
+    {
+      "title": "B站最强三大势力",
+      "cover": "http://i1.hdslb.com/bfs/archive/8fb7db4181069e83f5658358446b4e98c2234c54.jpg",
+      "uri": "bilibili://video/14820096",
+      "param": "14820096",
+      "goto": "av",
+      "desc": "视频类型: 动漫杂谈\n简介: 本视频纯属个人向\n不洗勿喷，要资源请私信up\n喜欢手机记得点一波推荐哦~\n封面来自网络",
+      "play": 76883,
+      "danmaku": 4286,
+      "reply": 1516,
+      "favorite": 2089,
+      "coin": 524,
+      "share": 175,
+      "idx": 1506316134,
+      "tid": 27,
+      "tname": "综合",
+      "tag": {
+        "tag_id": 1394,
+        "tag_name": "动漫",
+        "count": {
+          "atten": 12936
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:白莲呀"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:综合"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:动漫"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506426556,
+      "duration": 294,
+      "mid": 24350706,
+      "name": "白莲呀",
+      "face": "http://i1.hdslb.com/bfs/face/ea9803390ef39a364046726a4f870069a9733a93.jpg"
+    },
+    {
+      "title": "【谁杀死了谁？】（1943）「动画史经典翻译计划」#7",
+      "cover": "http://i1.hdslb.com/bfs/archive/a11b97cb7b6632912f8d9bd813ee04d324fe806b.jpg",
+      "uri": "bilibili://video/14698638",
+      "param": "14698638",
+      "goto": "av",
+      "desc": "自译\n#动画史经典翻译计划#第7期，月黑风高的晚上，发生了一桩无头无尾没有犯人也没有受害者的凶杀案。上期回顾：av14491163",
+      "play": 8816,
+      "danmaku": 247,
+      "reply": 98,
+      "favorite": 766,
+      "coin": 160,
+      "share": 68,
+      "rcmd_reason": {
+        "id": 2,
+        "content": "很多人点推荐",
+        "bg_color": "yellow",
+        "icon_location": "bottom"
+      },
+      "idx": 1506316030,
+      "tid": 47,
+      "tname": "短片·手书·配音",
+      "tag": {
+        "tag_id": 26517,
+        "tag_name": "动画短片",
+        "count": {
+          "atten": 49124
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:马小褂"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:短片·手书·配音"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:动画短片"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506090329,
+      "duration": 466,
+      "mid": 29159,
+      "name": "马小褂",
+      "face": "http://i1.hdslb.com/bfs/face/e92e692bea6528b3768628b071d6c85954ad3350.jpg"
+    },
+    {
+      "title": "1400年传承，让世界惊叹的闽南传统工艺",
+      "cover": "http://i1.hdslb.com/bfs/archive/e76c2d75230eb3af0c4cd20a04397b109918ecee.jpg",
+      "uri": "bilibili://video/14660647",
+      "param": "14660647",
+      "goto": "av",
+      "desc": "千丝万缕绕指柔，精细艺术毫厘间。一件漆线雕的诞生，需要耗时数个月甚至数载的时间和精力去完成。其珍贵之处，不止在其华丽精美的外表，更在于工艺人的匠人匠心精神。",
+      "play": 41677,
+      "danmaku": 696,
+      "reply": 399,
+      "favorite": 5317,
+      "coin": 2248,
+      "share": 780,
+      "idx": 1506316029,
+      "tid": 161,
+      "tname": "手工",
+      "tag": {
+        "tag_id": 194051,
+        "tag_name": "手艺",
+        "count": {
+          "atten": 352
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:匠仓TV"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:手工"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:手艺"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505983466,
+      "duration": 180,
+      "mid": 29335982,
+      "name": "匠仓TV",
+      "face": "http://i2.hdslb.com/bfs/face/8e9b690ab225c3da719e20003cb21caa3c360a9f.jpg"
+    },
+    {
+      "title": "【重工】聖地巡礼—【某科学的超电磁炮学园都市番外篇—上琴桥】",
+      "cover": "http://i0.hdslb.com/bfs/archive/b86d43d8996774a0a28ce4fbf1d1fb420fb5f501.jpg",
+      "uri": "bilibili://video/14501291",
+      "param": "14501291",
+      "goto": "av",
+      "desc": "本期视频带你走进魔禁手游的现实场景，原来手游真的是神还原。其次感谢大家的收看，每一次的圣地巡礼视频真的都非常不容易，前期的准备，中期的跋涉，后期的调整。谢谢东亚重工罗兰的用心，希望大家喜欢。当然可以的话，请收藏一波，投个硬币，谢谢大家的支持。  \n 9月21日~23日会在我直播间492，为大家带来日本东京游戏展的直播，届时也会录播的~~\n当然微博也请多多关注~\n微博：丧男-PALADIN      (超监督)\n微博：罗兰·斯特莱夫·雷  （执行）\n微博：飕飗灿烂zone  （字幕施工员）",
+      "play": 11658,
+      "danmaku": 295,
+      "reply": 123,
+      "favorite": 412,
+      "coin": 897,
+      "share": 31,
+      "idx": 1506316028,
+      "tid": 124,
+      "tname": "趣味科普人文",
+      "tag": {
+        "tag_id": 678,
+        "tag_name": "御坂美琴",
+        "count": {
+          "atten": 14411
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:丧男PALADIN"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:趣味科普人文"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:御坂美琴"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505550614,
+      "duration": 1499,
+      "mid": 1334711,
+      "name": "丧男PALADIN",
+      "face": "http://i0.hdslb.com/bfs/face/cec63dcb498d75e300015035ddb31978e429a6b4.jpg"
+    },
+    {
+      "title": "【菠萝】♥桃源恋歌* 封面假腿*你看进度条怕不怕【动作有改动注意。",
+      "cover": "http://i1.hdslb.com/bfs/archive/6bee5e4c7fe99c51dc8f4eabf896d3291f30929e.png",
+      "uri": "bilibili://video/14661765",
+      "param": "14661765",
+      "goto": "av",
+      "desc": "高跟鞋在光滑的地板上摩擦【滑稽.jpg\r\n\r\n振幅Miume av10582565",
+      "play": 63442,
+      "danmaku": 393,
+      "reply": 306,
+      "favorite": 3053,
+      "coin": 603,
+      "share": 100,
+      "idx": 1506316151,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 31878,
+        "tag_name": "翻跳",
+        "count": {
+          "atten": 54060
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:菠萝daze"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:翻跳"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505985922,
+      "duration": 441,
+      "mid": 529813,
+      "name": "菠萝daze",
+      "face": "http://i1.hdslb.com/bfs/face/9e69199ce7f3e39def9d16db2b38ce1ce3996724.jpg",
+      "request_id": "1506866495069q172a18a61a23q389",
+      "src_id": 1687,
+      "is_ad_loc": true,
+      "client_ip": "113.102.6.245",
+      "ad_index": 2
+    },
+    {
+      "title": "【哀子吖静紅葉】晴天好心情【凉宫春日的忧郁】据说看过的都结婚了？我不是！我没有！",
+      "cover": "http://i2.hdslb.com/bfs/archive/1403b6e5db9c0bafb89e235b26e0e4c7f1801837.jpg",
+      "uri": "bilibili://video/14868738",
+      "param": "14868738",
+      "goto": "av",
+      "desc": "参考视频sm1404492916 摄影感谢@飘雪幻幻\n凉宫春日@吖静sizu222 http://weibo.com/sbd222\n长门有希@いとう哀 http://weibo.com/yitouai\n朝比奈实玖瑠@红叶之祭礼 http://weibo.com/gals1987\n当吖静来约我这个舞的时候真的非常开心，于是就去找了当年跟我一起出SOS团的1096的COSER红叶一起来完成这个团舞（红叶不太会跳舞，请大家多多担待）\n难以忘怀那一年看到这个作品时的激动，人生第一个宅舞！",
+      "play": 29970,
+      "danmaku": 323,
+      "reply": 436,
+      "favorite": 1299,
+      "coin": 1724,
+      "share": 122,
+      "rcmd_reason": {
+        "id": 2,
+        "content": "很多人点推荐",
+        "bg_color": "yellow",
+        "icon_location": "bottom"
+      },
+      "idx": 1506316150,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 426,
+        "tag_name": "凉宫春日",
+        "count": {
+          "atten": 3095
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:いとう哀"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:凉宫春日"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506688209,
+      "duration": 214,
+      "mid": 1678535,
+      "name": "いとう哀",
+      "face": "http://i0.hdslb.com/bfs/face/e828fcf1656ab1b4968121fbef0ad8764b15cff8.jpg"
+    },
+    {
+      "title": "【双语字幕】白洞到底是真是假",
+      "cover": "http://i2.hdslb.com/bfs/archive/11abe65a1855182b11fc5ba0e016d34720fdc660.jpg",
+      "uri": "bilibili://video/14524635",
+      "param": "14524635",
+      "goto": "av",
+      "desc": "译自：PBS Spacetime\n白洞作为宇宙中最神秘物体之一，它的存在与否是物理学家和数理学家们争论的焦点。还记得之前我们研究黑洞时所用的工具吗？如果用彭罗斯图研究白洞会发生什么有趣的现象呢？\n相关视频：\n黑洞的事件视界会发生什么：https://www.bilibili.com/video/av7947580/\n事件视界下方的时空互换现象：https://www.bilibili.com/video/av11063068/\n\n对4000+粉丝说声抱歉，事情有点多，自己有点懒。",
+      "play": 15888,
+      "danmaku": 240,
+      "reply": 156,
+      "favorite": 599,
+      "coin": 69,
+      "share": 46,
+      "idx": 1506316027,
+      "tid": 124,
+      "tname": "趣味科普人文",
+      "tag": {
+        "tag_id": 1364,
+        "tag_name": "科学",
+        "count": {
+          "atten": 128888
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:Toucc"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:趣味科普人文"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:科学"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505574118,
+      "duration": 748,
+      "mid": 26728556,
+      "name": "Toucc",
+      "face": "http://i2.hdslb.com/bfs/face/681524acb8ced718f0984fe3acb84ed9db701358.jpg"
+    },
+    {
+      "title": "三星Note8与iPhone 7 Plus双摄对比  结果感人",
+      "cover": "http://i0.hdslb.com/bfs/archive/2f0827835951f3d78381416013b07ed186214575.jpg",
+      "uri": "bilibili://video/14445928",
+      "param": "14445928",
+      "goto": "av",
+      "desc": "三星Note8国行版已经正式发布，此次Note8首次使用了双摄方案，采用广角+长焦。其中，广角端为1200万像素，f1.7大光圈，1.4微米传感器；长焦端为1200万像素，f2.4光圈，两颗镜头均支持光学防抖。下面，我们就将它和iPhone 7 Plus对比一下，结果比较感人。",
+      "play": 30023,
+      "danmaku": 157,
+      "reply": 125,
+      "favorite": 62,
+      "coin": 12,
+      "share": 81,
+      "idx": 1506316026,
+      "tid": 95,
+      "tname": "数码",
+      "tag": {
+        "tag_id": 917,
+        "tag_name": "APPLE",
+        "count": {
+          "atten": 1344
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:手机中国视频"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:数码"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:APPLE"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505354562,
+      "duration": 214,
+      "mid": 16789107,
+      "name": "手机中国视频",
+      "face": "http://i0.hdslb.com/bfs/face/319de6d0a10223aa6a35d603ac60a0495ea34f6b.jpg"
+    },
+    {
+      "title": "【该细还得细】FGO一周年/迟来一年的入坑攻略",
+      "cover": "http://i0.hdslb.com/bfs/archive/7fd3ade80bb3f934ef7066aee6f50e3cc7d56550.jpg",
+      "uri": "bilibili://video/14659554",
+      "param": "14659554",
+      "goto": "av",
+      "desc": "自制，FGO一周年~安利好友再不怕反复回答问题了，小手一挥贴个链接。你们的陪伴就是我的动力。\nBGM：（1）色彩 ~雪花の盾  （2）运命の夜 （3）骑士王の夸り（4）Unlimited Blade Works （5） La Sola （6）今はその剣を置いて",
+      "play": 58754,
+      "danmaku": 1499,
+      "reply": 1156,
+      "favorite": 3061,
+      "coin": 4850,
+      "share": 1663,
+      "idx": 1506316025,
+      "tid": 172,
+      "tname": "手机游戏",
+      "tag": {
+        "tag_id": 2100,
+        "tag_name": "攻略",
+        "count": {
+          "atten": 63458
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:削人棍专用BGM"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:手机游戏"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:攻略"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505980340,
+      "duration": 1078,
+      "mid": 47780275,
+      "name": "削人棍专用BGM",
+      "face": "http://i2.hdslb.com/bfs/face/717376b9dbebcc68359444e4d0d90c46ea1e0b98.jpg"
+    },
+    {
+      "title": "【Aqours】欲以梦想照亮夜空 in 横滨ARENA (特效字幕)",
+      "cover": "http://i2.hdslb.com/bfs/archive/f59b10d18038a4b45dd8d526733cc494811b2b61.jpg",
+      "uri": "bilibili://video/14804765",
+      "param": "14804765",
+      "goto": "av",
+      "desc": "截自1st live bd day1\n更多相关视频请移步收藏夹",
+      "play": 3510,
+      "danmaku": 87,
+      "reply": 74,
+      "favorite": 424,
+      "coin": 308,
+      "share": 64,
+      "idx": 1506316024,
+      "tid": 29,
+      "tname": "三次元音乐",
+      "tag": {
+        "tag_id": 1794,
+        "tag_name": "演唱会",
+        "count": {
+          "atten": 35624
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:Nyamazing字幕组"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:三次元音乐"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:演唱会"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506380936,
+      "duration": 332,
+      "mid": 554122,
+      "name": "Nyamazing字幕组",
+      "face": "http://i2.hdslb.com/bfs/face/9378e47e18ffbf56f37a31860bb1ed3322fa4339.jpg"
+    },
+    {
+      "title": "骚年快看！双开英雄联盟？？三千预算开网吧，老板抹泪当叫花",
+      "cover": "http://i0.hdslb.com/bfs/archive/5e458c956ca125ee4d05cab43b9813968258138f.jpg",
+      "uri": "bilibili://video/14711647",
+      "param": "14711647",
+      "goto": "av",
+      "desc": "教大家如何在让一台电脑给两个人用。\n\n有许多个方案哦。\n\nBGM：TheFatRat - Windfall",
+      "play": 53566,
+      "danmaku": 239,
+      "reply": 416,
+      "favorite": 1937,
+      "coin": 1475,
+      "share": 125,
+      "idx": 1506316023,
+      "tid": 95,
+      "tname": "数码",
+      "tag": {
+        "tag_id": 5417,
+        "tag_name": "科普",
+        "count": {
+          "atten": 128732
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:漫游挨踢"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:数码"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:科普"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506136906,
+      "duration": 231,
+      "mid": 7875609,
+      "name": "漫游挨踢",
+      "face": "http://i2.hdslb.com/bfs/face/a0046e248a4e58b187388dcb186c90a42ba698f2.jpg"
+    },
+    {
+      "title": "【urico】热成狗的DEEP BLUE TOWN来玩哦",
+      "cover": "http://i0.hdslb.com/bfs/archive/0aa80d4ce40c507f21b57ef60f6607e16239e927.jpg",
+      "uri": "bilibili://video/14753312",
+      "param": "14753312",
+      "goto": "av",
+      "desc": "创作类型: 翻跳\n翻跳版本: AV13403880(大小姐超可爱!!!)\n歌曲出处: DEEP BLUE TOWNへおいでよ\n摄影: 流派\n后期: 兔肉饼儿\n简介: 这首歌刚出就超喜欢啦！！！然后马上开始学，足太跳的太好了太可爱了，被感染到了。\n日常站不稳，但这次改进了下力度的问题，应该比系列曲前作看起来没那么尬2333还有诸多不足，但由于最近空闲时间很少了qwq请大家诸多包含，会继续加油的！",
+      "play": 24008,
+      "danmaku": 180,
+      "reply": 303,
+      "favorite": 2219,
+      "coin": 1285,
+      "share": 55,
+      "idx": 1506316022,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 2988,
+        "tag_name": "双马尾",
+        "count": {
+          "atten": 2429
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:urico-"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:双马尾"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506236502,
+      "duration": 200,
+      "mid": 11542325,
+      "name": "urico-",
+      "face": "http://i2.hdslb.com/bfs/face/0e58bf2024245c038e5d6465dcdf09996f967322.jpg"
+    },
+    {
+      "title": "【小仙若】随心所欲Mercy【真的对我没兴趣吗？】",
+      "cover": "http://i1.hdslb.com/bfs/archive/95fb21757c8197eaa411f3c14a5669fc595d5729.jpg",
+      "uri": "bilibili://video/14955289",
+      "param": "14955289",
+      "goto": "av",
+      "desc": "微博：一只小仙若  求求大家赏我两个硬币把qwq\n最近沉迷xx，都没怎么练舞，录出来的东西真的一言难尽qwq\n然后也好久没有穿高跟鞋跳舞超级不习惯，录得地方地还是不平的，很难受qwq\n本家振付：sm28974414 \n摄影：流派  后期：一只小亨利",
+      "play": 43738,
+      "danmaku": 277,
+      "reply": 458,
+      "favorite": 2441,
+      "coin": 3602,
+      "share": 51,
+      "rcmd_reason": {
+        "id": 2,
+        "content": "很多人点推荐",
+        "bg_color": "yellow",
+        "icon_location": "bottom"
+      },
+      "idx": 1506316143,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 31878,
+        "tag_name": "翻跳",
+        "count": {
+          "atten": 54054
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:一只小仙若"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:翻跳"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506841761,
+      "duration": 204,
+      "mid": 16539048,
+      "name": "一只小仙若",
+      "face": "http://i2.hdslb.com/bfs/face/8b58d540494dc8943e88f7441b8a10ed2c29d466.jpg"
+    },
+    {
+      "title": "【关丹·小爱·糖糖】✿桃源恋歌✿这么可爱一定是男孩子！",
+      "cover": "http://i1.hdslb.com/bfs/archive/394a362d39b900716623f2168d19369c48c526c7.png",
+      "uri": "bilibili://video/14660638",
+      "param": "14660638",
+      "goto": "av",
+      "desc": "我们“三兄弟”桃园结义，终于把心心念念的桃源录完了，鉴于之前千本樱视频里大家都对汉服元素一致好评，这次录制桃源我们特意设计了三套中国红的衣服，是不是还挺好看的(*^__^*) 部分舞蹈动作略微改编了一点，希望大家不要怪罪。最后很感谢Miume・MARiA・217给我们带来这么好的作品！本周末上海田林路140号创意园区16栋西楼101剧场有我们CH2女团的演出，大家可以关注微博“CH2高校偶像女团”免费报名，希望在上海的朋友可以来和我们面基哦！",
+      "play": 73041,
+      "danmaku": 2685,
+      "reply": 147,
+      "favorite": 2839,
+      "coin": 879,
+      "share": 89,
+      "idx": 1506316142,
+      "tid": 20,
+      "tname": "宅舞",
+      "tag": {
+        "tag_id": 11296,
+        "tag_name": "萌妹子",
+        "count": {
+          "atten": 67925
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:熊猫少女蛋蛋"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:宅舞"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:萌妹子"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505985565,
+      "duration": 243,
+      "mid": 130781103,
+      "name": "熊猫少女蛋蛋",
+      "face": "http://i1.hdslb.com/bfs/face/f0dde40eae9f4e8a3fc7b1b8c6762b09e077ab03.jpg"
+    },
+    {
+      "title": "穿吊袜带的女孩子特辑，裙子下的绝对领域-第3辑",
+      "cover": "http://i1.hdslb.com/bfs/archive/d80c76fa280854e8ba86f2d97b2006139aad0787.jpg",
+      "uri": "bilibili://video/14578787",
+      "param": "14578787",
+      "goto": "av",
+      "desc": "图包在群里。群号： 370152595\nBGM：花たん - Hope ac",
+      "play": 195254,
+      "danmaku": 1161,
+      "reply": 388,
+      "favorite": 13565,
+      "coin": 1083,
+      "share": 1278,
+      "idx": 1506316141,
+      "tid": 27,
+      "tname": "综合",
+      "tag": {
+        "tag_id": 144,
+        "tag_name": "萝莉",
+        "count": {
+          "atten": 30992
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:药药今天也想上药研"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:综合"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:萝莉"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1505718557,
+      "duration": 233,
+      "mid": 17153893,
+      "name": "药药今天也想上药研",
+      "face": "http://i2.hdslb.com/bfs/face/5f60d9295edd54917df8e4700cd04fc8983ad1b5.jpg",
+      "request_id": "1506864696750q172a18a61a53q602",
+      "src_id": 1686,
+      "is_ad_loc": true,
+      "client_ip": "113.102.6.245",
+      "ad_index": 1
+    },
+    {
+      "title": "【奥特曼】奥特曼十大凶兽大集合，b站还有99%的人没看过我的奥特曼",
+      "cover": "http://i2.hdslb.com/bfs/archive/4c5ca65cacce4d121cb7a4a2de160fa09e412d0f.jpg",
+      "uri": "bilibili://video/14699632",
+      "param": "14699632",
+      "goto": "av",
+      "desc": "视频类型: 盘点\n相关题材: 迪迦奥特曼tv版     剧场版      盖亚奥特曼      奥特物语\n简介: 喜欢的朋友请点击右上角，投币，谢谢！！\n重新更改了下，希望比之前的更好!!",
+      "play": 107992,
+      "danmaku": 5304,
+      "reply": 914,
+      "favorite": 2469,
+      "coin": 450,
+      "share": 244,
+      "idx": 1506316140,
+      "tid": 27,
+      "tname": "综合",
+      "tag": {
+        "tag_id": 830,
+        "tag_name": "燃向",
+        "count": {
+          "atten": 99255
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:西天取经的蜜蜂"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:综合"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:燃向"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506128441,
+      "duration": 3903,
+      "mid": 164797402,
+      "name": "西天取经的蜜蜂",
+      "face": "http://i1.hdslb.com/bfs/face/7008a5ca4f54ad0f2522394f419b4dbdbeac7981.jpg"
+    },
+    {
+      "title": "【FGO】让御主们怀疑人生的抽卡",
+      "cover": "http://i2.hdslb.com/bfs/archive/54b8101a54adcd064bd42d3dcf9931b68c451671.png",
+      "uri": "bilibili://video/14857742",
+      "param": "14857742",
+      "goto": "av",
+      "desc": "本季度最欧的航天员，今天你要吃点兔子吗？微博求关注：http://weibo.com/ganjunwudi 直播通知群：365211698 舰长专用群：377379600",
+      "play": 33128,
+      "danmaku": 1896,
+      "reply": 519,
+      "favorite": 207,
+      "coin": 301,
+      "share": 317,
+      "idx": 1506316139,
+      "tid": 172,
+      "tname": "手机游戏",
+      "tag": {
+        "tag_id": 88505,
+        "tag_name": "杆菌无敌",
+        "count": {
+          "atten": 240
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:杆菌无敌"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:手机游戏"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:杆菌无敌"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506571263,
+      "duration": 423,
+      "mid": 164627,
+      "name": "杆菌无敌",
+      "face": "http://i2.hdslb.com/bfs/face/6bbeb93dd72c60cb7ad2e876b241d0360d7f0d38.gif"
+    },
+    {
+      "title": "【AMV/催泪向】愿曾经的爱可以随时间慢慢逝去",
+      "cover": "http://i0.hdslb.com/bfs/archive/aa60a31020b009e9db9bc994e33892e34b373bdb.png",
+      "uri": "bilibili://video/14856521",
+      "param": "14856521",
+      "goto": "av",
+      "desc": "BGM：初恋-Flower      封面P站ID：65025535     尾图P站ID：52406557\r\n时隔好几个月的视频，只希望大家没有忘记我吧QAQ，之前怠惰了好久，之后会保持更新的，\r\n另外之后可能会出漫评视频，希望大家支持~    \r\n求关注，硬币，收藏~  动漫吹B交流：631444941\r\n意见、建议 希望大家可以留言或者私信，谢谢~",
+      "play": 19130,
+      "danmaku": 195,
+      "reply": 97,
+      "favorite": 2291,
+      "coin": 389,
+      "share": 141,
+      "rcmd_reason": {
+        "id": 2,
+        "content": "很多人点推荐",
+        "bg_color": "yellow",
+        "icon_location": "bottom"
+      },
+      "idx": 1506316137,
+      "tid": 24,
+      "tname": "MAD·AMV",
+      "tag": {
+        "tag_id": 281,
+        "tag_name": "MAD",
+        "count": {
+          "atten": 33301
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:丶可爱のCo酱"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:MAD·AMV"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:MAD"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506534302,
+      "duration": 218,
+      "mid": 30297304,
+      "name": "丶可爱のCo酱",
+      "face": "http://i2.hdslb.com/bfs/face/415c205b25d60b70df5323a49ca67a6105baea2a.jpg"
+    },
+    {
+      "title": "神作？RE:CREATORS究竟应该如何评价",
+      "cover": "http://i2.hdslb.com/bfs/archive/40f2dfdaccdeeca6e4cb25b062ab8b0cd2857077.png",
+      "uri": "bilibili://video/14912347",
+      "param": "14912347",
+      "goto": "av",
+      "desc": "很抱歉拖了近一周才做完\r\n在做杂谈这方面我还是个菜鸟，也多谢各位能捧场了\r\n下期声优视频会在十一期间发布\r\n每晚八点直播，微博@饭帅marshall-fun",
+      "play": 119190,
+      "danmaku": 2859,
+      "reply": 1831,
+      "favorite": 7917,
+      "coin": 20065,
+      "share": 1238,
+      "idx": 1506316136,
+      "tid": 27,
+      "tname": "综合",
+      "tag": {
+        "tag_id": 359,
+        "tag_name": "新番",
+        "count": {
+          "atten": 139708
+        }
+      },
+      "dislike_reasons": [
+        {
+          "reason_id": 4,
+          "reason_name": "UP主:饭帅marshall-fun"
+        },
+        {
+          "reason_id": 2,
+          "reason_name": "分区:综合"
+        },
+        {
+          "reason_id": 3,
+          "reason_name": "标签:新番"
+        },
+        {
+          "reason_id": 1,
+          "reason_name": "不感兴趣"
+        }
+      ],
+      "ctime": 1506744100,
+      "duration": 1422,
+      "mid": 1320523,
+      "name": "饭帅marshall-fun",
+      "face": "http://i1.hdslb.com/bfs/face/1f8c1c2665d8c1cbb14c4dbe5e09d06f0e78e314.jpg"
+    }
+  ],
+  "message": "0",
+  "ttl": 1
+}
