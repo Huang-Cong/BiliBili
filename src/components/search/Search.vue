@@ -5,17 +5,19 @@
       <div class="search-input">
         <font class="inputting">
           <span class="icon-search"></span>
-          <input type="search" placeholder="海底深处究竟有何方妖孽?">
+          <input type="search" v-model="keyword" placeholder="海底深处究竟有何方妖孽?" @keydown.enter="getSearch">
         </font>
       </div>
       <div class="top-search">
         <span class="everybody">大家都在搜</span>
         <div class="top-search-list" ref="topSearch">
           <ul class="ul-top">
-            <li class="top-list" v-for="item in dataTop.list">
+            <li class="top-list" v-for="item,index in dataTop.list" @click="getTitle(index)">
+              <a :href="'https://m.bilibili.com/search.html?keyword='+item.keyword">
               <span class="top-content">
                 {{item.keyword}}
               </span>
+              </a>
             </li>
           </ul>
         </div>
@@ -57,7 +59,9 @@
       return {
         transitionName: 'slide-left',
         dataTop: {},
-        topScroll: false
+        topScroll: false,
+        keyword: '',
+        togglePanel: true
       }
     },
     beforeRouteUpdate (to, from, next) {
@@ -73,6 +77,12 @@
     methods: {
       goBack () {
         this.$router.goBack()
+      },
+      getTitle (index) {
+        this.keyword = this.dataTop.list[index].keyword
+      },
+      getSearch (keyword) {
+        window.location.href = 'https://m.bilibili.com/search.html?keyword=' + this.keyword
       },
       checkMore () {
         let topSearch = this.$refs.topSearch
@@ -184,7 +194,7 @@
           border: none;
           font-size: 12px;
           z-index: 3;
-          color: white;
+          color: black;
           letter-spacing: 1px;
           background-color: white;
         }
